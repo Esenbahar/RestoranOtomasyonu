@@ -1,0 +1,13 @@
+C:\Users\yenib\source\repos\oto\oto\bin\Debug\oto.exe.config
+C:\Users\yenib\source\repos\oto\oto\bin\Debug\oto.exe
+C:\Users\yenib\source\repos\oto\oto\bin\Debug\oto.pdb
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.csprojResolveAssemblyReference.cache
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.frmGiris.resources
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.Properties.Resources.resources
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.csproj.GenerateResource.Cache
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.csproj.CoreCompileInputs.cache
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.exe
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.pdb
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.frmMenu.resources
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.frmMasalar.resources
+C:\Users\yenib\source\repos\oto\oto\obj\Debug\oto.frmSiparis.resources
